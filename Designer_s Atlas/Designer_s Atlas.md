@@ -34,7 +34,7 @@ Description of all neighborhoods
 
 ## 7.3.1 Toontown Central
 
-![1_Image_0.Png](1_Image_0.Png)
+![1_image_0.png](1_image_0.png)
 
 Toontown Central is themed like Toontown in Disneyland.  The center of town is a park-like atmosphere with lots of green trees and colorful houses.  In the center of the park is a gazebo and Players can walk around a Mickey-shaped hedge.  On the outskirts of the park are quaint cobbled-stone streets.  Mickey Mouse inhabits this neighborhood and it's here that the Hall of Fame and the Ritz Carltoon is located.
 
@@ -90,7 +90,7 @@ Deluxe trolley station: The trolley station here will be larger than the others,
 
 ## 7.3.2  Donald'S Dock
 
-![3_Image_0.Png](3_Image_0.Png)
+![3_image_0.png](3_image_0.png)
 
 A lake dominates this neighborhood and in its center is a red, white and blue boat, owned by Donald Duck. The streets are made of wooden planks and the buildings have a wharf theme to them.  In the middle of the lake sits an island that players can visit.  Players can go underwater in this neighborhood and play catch with fish that swim nearby.
 
@@ -129,7 +129,7 @@ Boat arrives at dock:
 
 ## 7.3.3 The Brrrgh
 
-![5_Image_0.Png](5_Image_0.Png)
+![5_image_0.png](5_image_0.png)
 
 A winter wonderland is the theme of The Brrrgh.  It snows all the time here and all the buildings have icicles hanging from their roofs. In this neighborhood everything is frozen and the sky is always overcast. The pond in the middle of this neighborhood is frozen over and players will have a slippery time of trying to walk from one end to the other while trying to catch falling snowflakes. If they're successful and catch the oversized flakes, they will improve their Laugh Meter. Pluto watches over this neighborhood and can be seen trying to paw his way around the ice to get back to his igloo/dog house.
 
@@ -154,7 +154,7 @@ Hero Statue: There will be a hero statue in the safe zone, that appears to be ma
 
 ## 7.3.4
 
-![7_Image_0.Png](7_Image_0.Png)
+![7_image_0.png](7_image_0.png)
 
 # Minnie'S Melody Land
 
@@ -198,7 +198,7 @@ Goofy: (option 2 TBD 2/28/01): Goofy fires the starter pistol for the race, and 
 
 ## 7.3.6 Daisy Garden
 
-![10_Image_0.Png](10_Image_0.Png)
+![10_image_0.png](10_image_0.png)
 
 Daisy Duck welcomes you to her pretty neighborhood filled with pastel colored flowers.  The Victorian/gingerbread buildings are covered with crawling vines and flower boxes and bowers decorate walkways. A wall of lollypop trees circle the neighborhood.  You can hear the sounds of birds chirping and fountains spraying water as you wander through the gardens.  There are no concrete sidewalks in this neighborhood, because Daisy keeps her place decorated with lush grass and hedges.  Players can find their way through a large hedge maze to find the yellow and white daisy in the middle.  Once they step into the large daisy it closes it petals and heals them from any damage done during battles. Once their Laugh Meters are improved they are transported to the outskirts of the maze and ready to explore some more.
 
@@ -286,7 +286,7 @@ Headquarters 7.5 TBD
 
 ## 9.3 List Of Mini-Games
 
-![15_Image_0.Png](15_Image_0.Png) 9.3.1 Lucky Number
+![15_image_0.png](15_image_0.png) 9.3.1 Lucky Number
 
 Lucky Number is themed like a board game. Up to four players can play.  If there are less than four players, the remaining slots are taken by Cogs. The game board has four parallel game tracks of equal length, one for each player. Each turn, each player picks a number from 1 to 4, from a dice-themed number picker. If a player chooses a unique number, the player advances that many spaces. If the player chooses the same number that someone else has chosen, the player stays in place. Some spaces have a "?" on them, and players who end their move on a "?"
 space will have a "?" card drawn from a deck visible on the game board. The following table indicates the cards, and their frequencies:
@@ -372,7 +372,7 @@ Points are awarded for 156, 2nd, 3rd, and 4th place.
 
 ## 9.3.7 Dodge-A-Cog
 
-![20_Image_0.Png](20_Image_0.Png)
+![20_image_0.png](20_image_0.png)
 
 Theming: TBD 4/15/01 (Perhaps garden themed with a hedge maze? Perhaps cubicle themed?)
 This game is basically a pac-man style game for up to four players. The goal is to run around a maze (perspective is isometric) avoiding cogs, and gathering tokens. If you touch a cog, you get paralyzed for about ten seconds. Players get points based on how many tokens they gathered. If the group manages to gather all the tokens before time is up (60 seconds), they each get special bonus points.
@@ -409,7 +409,7 @@ This is a version of Whac-a-mole that takes place on the side of a building. Cog
 
 ## 9.3.12 Splat Attack
 
-![22_Image_1.Png](22_Image_1.Png)
+![22_image_1.png](22_image_1.png)
 
 SPLAT
 The players (one to four) are arranged in a semi circle around several pop-up cog targets. Each Toon is manning a pie-throwing machine. The machine oscillates from left to right and right to left. Players click the mouse to throw a pie, which goes in whatever direction the machine is pointing at that moment. Players have twenty pies and twenty seconds. Players get points each time they hit one of the targets.
